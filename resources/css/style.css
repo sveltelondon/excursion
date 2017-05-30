@@ -1,10 +1,11 @@
 h1{
-  font-family: Verdana;
+  font-family:Verdana;
   font-weight: normal;
   font-size: 50px;
   color: white;
   text-align: center;
 }
+
 h2{
   font-family: Verdana;
   font-weight: 300;
@@ -18,9 +19,16 @@ p{
   color: Gray;
 }
 
-#download{
+.link{
   color: Aquamarine;
   font-size: 16px;
+}
+
+.footer{
+  color: Grey;
+  text-align: right;
+  font-family: Verdana;
+  font-size: 21px;
 }
 
 *{
